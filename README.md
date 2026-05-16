@@ -1,7 +1,7 @@
 # 🐍 Python Complete Mastery Journey
 
-> **From Zero to Job-Ready Python Developer**  
-> *Daily commits documenting my complete learning journey: Basics → OOP → Data Structures → Real Projects → AI/ML*
+> **From Zero to Job-Ready Python Developer**
+> *🐍 From zero to job-ready Python developer. Daily commits documenting my complete learning journey: basics → OOP → data structures → real projects. Clean code, best practices, and portfolio-ready work. Watch my consistent growth! 📈*
 
 
 ![Python Version](https://img.shields.io/badge/python-3.12+-blue)
